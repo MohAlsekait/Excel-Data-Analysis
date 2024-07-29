@@ -1,8 +1,8 @@
 # **Excel Data Analysis Projects**
-In this reprastory you will find diffirent documents each document contains an Excel file and a quick veiw of the dashboard as a result of the analysis, 
-each documents would contains a distinct dataset as each on of the documents are not related.
+In this repository, you will find different documents. Each document contains an Excel file and a quick view of the dashboard as a result of the analysis. 
+Each document would contain a distinct dataset as each of the documents are not related.
 
-**The skills that would of seen for this reprosatory:**
+**The skills that would have been seen for this reprosatory:**
 - Statistical Analysis.
 - Data Visualization.
 - Power Query.
